@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/568259913630048849/49c55eae6dc749cd92194a80fa6cd1f7/artifacts
+end_time: 1705124309881
+entry_point_name: ''
+experiment_id: '568259913630048849'
+lifecycle_stage: active
+run_id: 49c55eae6dc749cd92194a80fa6cd1f7
+run_name: spiffy-flea-246
+run_uuid: 49c55eae6dc749cd92194a80fa6cd1f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705124303752
+status: 3
+tags: []
+user_id: ASUS
